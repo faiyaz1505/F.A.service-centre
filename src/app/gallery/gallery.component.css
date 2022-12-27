@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+.banner{
+    width:100%;
+    }
+    .banner img{
+        border-radius: 0% 0% 30% 0% ;
+    margin-top:90px;
+    padding:0px 30px;
+    width:50%;
+    float:right;
+    height:50vh;
+    }
+    .banner p{
+    padding:200px 90px;
+    text-transform:uppercase;
+    }
+    .banner b{
+    font-size:35px;
+    color:#124EB6;
+    }
+.gallery{
+    padding:10px 20px;
+    }
+.gallery img{
+    width: 23%;
+    height:300px;
+    margin: 10px;
+}
+.gallery img:hover{
+    box-shadow: 8px 4px 8px 4px #74A3F4;
+}

@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+.banner{
+    width:100%;
+    }
+.banner img{
+    border-radius: 0% 0% 30% 0% ;
+    margin-top:90px;
+    padding:0px 30px;
+    width:50%;
+    float:right;
+    height:50vh;
+    }
+    .banner p{
+    padding:200px 90px;
+    text-transform:uppercase;
+    }
+    .banner b{
+    font-size:35px;
+    color:#124EB6;
+    }
+    .maincontact{
+    padding:0px 100px;
+    }
+    .card {
+      box-shadow: 0 2px 4px 0 #74A3F4;
+      transition: 0.3s;
+      width: 23%;
+      height:200px;
+      border-radius: 5px;
+      display:inline-block;
+      padding:40px 40px;
+    text-align:center;
+    margin:0.3em;
+    }
+    
+    .card:hover {
+      box-shadow: 0px 10px 18px 0px #74A3F4;
+    }
+    
+    
+    
+    .maincontact img{
+    padding:0px 70px;
+    }
+    .address h4{
+    padding:0px 70px;
+    }
+    .phone h4{
+    padding:0px 70px;
+    }
+    .fax h4{
+    padding:0px 75px;
+    }
+    .email h4{
+    padding:0px 69px;	
+    }
+    .last2 h1{
+    padding:40px;
+    text-align:center;
+    text-transform:capitalize;
+    color:#124EB6;
+    }
+    .last {
+      text-align: center;
+    }
+    .last2 p{
+    font-size:20px;
+    text-align:center;
+    }

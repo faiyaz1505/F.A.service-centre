@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+.banner{
+    width:100%;
+    }
+    .banner img{
+      border-radius: 0% 0% 30% 0% ;
+    margin-top:90px;
+    padding:0px 30px;
+    width:50%;
+    float:right;
+    height:50vh;
+    }
+    .banner p{
+    padding:200px 90px;
+    text-transform:uppercase;
+    }
+    .banner b{
+    font-size:35px;
+    color:#124EB6;
+    }
+    .card {
+        box-shadow: 0 2px 4px 0 #74A3F4;
+        transition: 0.4s;
+        display:inline-block;
+      padding-bottom:10px;
+      margin:1.5em;
+      }
+      .card:hover{
+      box-shadow: 0px 10px 18px 0px #74A3F4;
+      }
+      
+      
+      .container {
+        padding: 2px 16px;
+      }
+      .mainblock{
+      width:100%;
+      padding:10px 30px;
+      }
+      .mainblock img{
+      width:250px;
+      height:280px;
+      transition: 0.3s;
+      }
+      
+      .buy {
+      padding:5px 20px;
+      float:right;
+      background:#34C32B;
+      border-color:#34C32B;
+      border-radius:5px;
+      color:white;
+      }
+      .detail{
+      padding:5px 20px;
+      float:left;
+      background:red;
+      border-color:red;
+      border-radius:5px;
+      color:white;
+      }
+      
+      .detail:hover{
+      box-shadow: 0 4px 8px 0 #F76F57;
+      }
+      .buy:hover{
+      box-shadow: 0 4px 8px 0 #69EF2F; 
+      }
+      .rec{
+      color:#124EB6;
+      padding:10px 30px;
+      }
